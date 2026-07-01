@@ -12,6 +12,7 @@
   * [Обновление 1.3 - Чудесный ребаланс](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.3-chudesnyi-rebalans.md)
   * [Обновление 1.2 - Добро пожаловать в данж](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.2-dobro-pozhalovat-v-danzh.md)
   * [Обновление 1.1 - Мировой босс и переосмысление баланса](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.1-mirovoi-boss-i-pereosmyslenie-balansa.md)
+  * [Обновление 1.2 - Секира, крит, трезубец](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.2-sekira-krit-trezubec.md)
   * [Обновление 1.1](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.1.md)
   * [Изменения на сезон 15.05](obshaya-informaciya/novosti-obnovlenii/izmeneniya-na-sezon-15.05.md)
 * [Правила проекта](obshaya-informaciya/pravila-proekta.md)
