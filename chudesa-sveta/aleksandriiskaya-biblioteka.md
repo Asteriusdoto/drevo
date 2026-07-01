@@ -28,7 +28,6 @@ coverHeight: 407
 * <mark style="color:red;">**Заговор огня II**</mark>
 * <mark style="color:$warning;">**Огнеупорность III**</mark>
 * <mark style="color:red;">**Горящая стрела I**</mark>
-* <mark style="color:blue;">**Панчаут**</mark> (дополнительный случайный урон по зданиям от 1 до 5)
 
 ***
 
