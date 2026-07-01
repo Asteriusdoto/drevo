@@ -27,6 +27,7 @@ coverHeight: 390
 ### Модификации и Эффекты <a href="#modifikacii_i_effekty" id="modifikacii_i_effekty"></a>
 
 * Культура цивилизации: <mark style="color:purple;">**+50%**</mark>
-*   Каждый торговый ресурс дает в город <mark style="color:purple;">65 культуры</mark> в час
+* Каждый торговый ресурс дает в город <mark style="color:purple;">65 культуры</mark> в час
+*   Несчастье -1 во все города цивилизации
 
     <br>
