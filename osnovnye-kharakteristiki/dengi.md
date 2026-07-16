@@ -86,4 +86,4 @@ icon: sack-dollar
 | Средний доход                  | Нужно пополнять Торговое судно рыбой               |
 | Вместе с деньгами дает ресурсы | Рыбные фермы занимают большое количество Улучшений |
 
-Увеличить доход от торговых кораблей могут: постройка [маяк](../osnovnye-sooruzheniya/antichnost/mayak.md), чудеса света [Александрийский маяк](../chudesa-sveta/aleksandriiskii-mayak.md) и [Флагман Ингерманланд](../chudesa-sveta/flagman-ingermanland.md).
+Увеличить доход от торговых кораблей могут: постройка [маяк](../osnovnye-sooruzheniya/antichnost/mayak.md), чудеса света [Александрийский маяк](../chudesa-sveta/farosskii-mayak.md) и [Флагман Ингерманланд](../chudesa-sveta/flagman-ingermanland.md).

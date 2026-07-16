@@ -330,7 +330,7 @@ icon: beer-mug
 
 <mark style="color:$danger;">Было</mark>: Иметь любое чудо
 
-<mark style="color:$danger;">Стало</mark>: иметь чудо [Театр Глобус](../../chudesa-sveta/teatr-globus.md)
+<mark style="color:$danger;">Стало</mark>: иметь чудо [Театр Глобус](../../chudesa-sveta/globus-teatr.md)
 
 ## Увеличены монеты которые выпадают с мобов в данже
 
