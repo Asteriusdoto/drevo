@@ -10,7 +10,7 @@ coverHeight: 429
 Забудьте о привычном выживании. Возведите свою собственную цивилизацию, сокрушите врагов и одержите неоспоримую победу.&#x20;
 
 {% columns fullWidth="false" %}
-{% column width="25%" %}
+{% column width="25%" valign="middle" %}
 <p align="center"><a href="http://map.politgrad.space/" class="button secondary" data-icon="swords">Карта сервера</a></p>
 {% endcolumn %}
 
