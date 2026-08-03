@@ -11,7 +11,7 @@ coverHeight: 429
 
 {% columns fullWidth="false" %}
 {% column width="25%" %}
-<a href="http://map.politgrad.space/" class="button secondary" data-icon="swords">Карта сервера</a>
+<p align="center"><a href="http://map.politgrad.space/" class="button secondary" data-icon="swords">Карта сервера</a></p>
 {% endcolumn %}
 
 {% column width="25%" %}
