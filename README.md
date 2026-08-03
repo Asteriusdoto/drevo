@@ -10,16 +10,16 @@ coverHeight: 429
 Забудьте о привычном выживании. Возведите свою собственную цивилизацию, сокрушите врагов и одержите неоспоримую победу.&#x20;
 
 {% columns fullWidth="false" %}
-{% column %}
+{% column width="25%" %}
 <a href="http://map.politgrad.space/" class="button secondary" data-icon="swords">Карта сервера</a>
 {% endcolumn %}
 
-{% column %}
-<a href="https://civ-craft.gitbook.io/politgradwiki-en/" class="button secondary" data-icon="dungeon">Английская версия вики</a>
+{% column width="25%" %}
+<p align="center"> <a href="https://civ-craft.gitbook.io/politgradwiki-en/" class="button secondary" data-icon="dungeon">Английская версия вики</a></p>
 {% endcolumn %}
 
-{% column width="49.999999999999986%" %}
-<a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FdZBI6dHrGv9AslxiYfzZ%2Fuploads%2F3UFP6MzNv7GzdwtTTsFf%2F%D0%94%D1%80%D0%B5%D0%B2%D0%BE%204.0.svg?alt=media&#x26;token=0530de3f-2cbe-4080-85eb-eb01f8f6b6bb" class="button secondary" data-icon="flask">Древо технологий</a>
+{% column width="49.999999999999986%" valign="middle" %}
+&#x20;                  <a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FdZBI6dHrGv9AslxiYfzZ%2Fuploads%2F3UFP6MzNv7GzdwtTTsFf%2F%D0%94%D1%80%D0%B5%D0%B2%D0%BE%204.0.svg?alt=media&#x26;token=0530de3f-2cbe-4080-85eb-eb01f8f6b6bb" class="button secondary" data-icon="flask">Древо технологий</a>&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
