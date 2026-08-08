@@ -33,7 +33,7 @@
 * [Культура](osnovnye-kharakteristiki/kultura.md)
 * [Молоточки](osnovnye-kharakteristiki/molotochki.md)
 * [Наука](osnovnye-kharakteristiki/nauka/README.md)
-  * [Древо технологий](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCx2IA78rN8w2g9TeK8Uh%2Fuploads%2FDlG3O6ptcwZiuUYqgeRo%2F%D0%94%D1%80%D0%B5%D0%B2%D0%BE%205.0.svg?alt=media\&token=0eca0b89-f404-49ce-a042-0f22b342ab5d)
+  * [Древо технологий](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCx2IA78rN8w2g9TeK8Uh%2Fuploads%2F2QIF02ER8tDl25BI091C%2F%D0%94%D1%80%D0%B5%D0%B2%D0%BE%20RU%206.1.svg?alt=media\&token=06ab6437-db35-4af4-b12e-711f4749b06b)
 * [Деньги](osnovnye-kharakteristiki/dengi.md)
 * [Урожайность](osnovnye-kharakteristiki/urozhainost.md)
 * [Очки](osnovnye-kharakteristiki/ochki.md)
