@@ -12,6 +12,7 @@
   * [Обновление 1.3 - Чудесный ребаланс](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.3-chudesnyi-rebalans.md)
   * [Обновление 1.2 - Добро пожаловать в данж](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.2-dobro-pozhalovat-v-danzh.md)
   * [Обновление 1.1 - Мировой босс и переосмысление баланса](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.1-mirovoi-boss-i-pereosmyslenie-balansa.md)
+  * [Обновление 1.4 - Новые квесты](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.4-novye-kvesty.md)
   * [Обновление 1.3 - Твоя душа принадлежит мне](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.3-tvoya-dusha-prinadlezhit-mne.md)
   * [Обновление 1.2 - Секира, крит, трезубец](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.2-sekira-krit-trezubec.md)
   * [Обновление 1.1](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.1.md)
@@ -26,6 +27,10 @@
 * [Донат](obshaya-informaciya/donat.md)
 * [Пивоварение](obshaya-informaciya/pivovarenie.md)
 * [Работы](obshaya-informaciya/raboty.md)
+* [Квесты](obshaya-informaciya/kvesty/README.md)
+  * [Начальные квесты](obshaya-informaciya/kvesty/nachalnye-kvesty.md)
+  * [Квесты цивилизации](obshaya-informaciya/kvesty/kvesty-civilizacii.md)
+  * [Личные квесты](obshaya-informaciya/kvesty/lichnye-kvesty.md)
 
 ## Основные характеристики
 
