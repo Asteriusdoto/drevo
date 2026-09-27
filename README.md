@@ -18,8 +18,12 @@ coverHeight: 429
 <p align="center"> <a href="https://civ-craft.gitbook.io/politgradwiki-en/" class="button secondary" data-icon="dungeon">English wiki version</a></p>
 {% endcolumn %}
 
-{% column width="49.999999999999986%" valign="middle" %}
-&#x20;       <a href="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCx2IA78rN8w2g9TeK8Uh%2Fuploads%2FDlG3O6ptcwZiuUYqgeRo%2F%D0%94%D1%80%D0%B5%D0%B2%D0%BE%205.0.svg?alt=media&#x26;token=0eca0b89-f404-49ce-a042-0f22b342ab5d" class="button secondary" data-icon="flask">Древо технологий</a>&#x20;
+{% column width="41.666666666666664%" valign="middle" %}
+&#x20;       <a href="obshaya-informaciya/pravila-proekta.md" class="button secondary" data-icon="sparkle">Правила проекта</a>&#x20;
+{% endcolumn %}
+
+{% column width="8.33333333333334%" %}
+
 {% endcolumn %}
 {% endcolumns %}
 
