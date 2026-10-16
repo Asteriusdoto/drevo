@@ -47,7 +47,7 @@ coverHeight: 429
 4. Лава и вода больше <mark style="color:orange;">не генерируют</mark> булыжник. Вместо него – адский камень.
 5. <mark style="color:orange;">Отключены</mark> обычные монстры. <mark style="color:$success;">Добавлены</mark> кастомные мобы, которые соответствуют четырем тирам экипировки. Подробнее вы можете прочитать [здесь](obshaya-informaciya/moby.md).
 6. Спавнеры мобов <mark style="color:orange;">отключены</mark>.
-7. Выращивать культуры можно <mark style="color:orange;">только</mark> в специальных постройках [фермы](osnovnye-sooruzheniya/osobye-sooruzheniya/ferma.md).
+7. Выращивать культуры можно <mark style="color:orange;">только</mark> в специальных постройках [фермы](/broken/pages/9km1OWlkQKUDN1il9ozJ).
 8. Разводить животных возможно <mark style="color:orange;">только</mark> в специальной постройке [пастбище](osnovnye-sooruzheniya/osobye-sooruzheniya/pastbishe.md).
 9. Приваты через /region claim <mark style="color:orange;">отключены</mark>. Однако приватить все равно можно. Основав цивилизацию, у вас появится доступ к командам привата <mark style="color:$warning;">**/t claim**</mark>. Таким образом, Вы сможете приватить по чанкам территорию вашего города. С дополнительным набором команд вы можете ознакомиться [тут](upravlenie-gorodom-i-civilizaciei/komandy.md).
 10. Вы <mark style="color:orange;">не можете</mark> телепортироваться к другим игрокам.

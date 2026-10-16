@@ -79,7 +79,6 @@
 ## Основные сооружения
 
 * [Особые сооружения](osnovnye-sooruzheniya/osobye-sooruzheniya/README.md)
-  * [Ферма](osnovnye-sooruzheniya/osobye-sooruzheniya/ferma.md)
   * [Дробилка](osnovnye-sooruzheniya/osobye-sooruzheniya/drobilka.md)
   * [Карьер](osnovnye-sooruzheniya/osobye-sooruzheniya/karer.md)
   * [Коттедж](osnovnye-sooruzheniya/osobye-sooruzheniya/kottedzh.md)

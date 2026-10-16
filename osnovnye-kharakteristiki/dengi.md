@@ -58,7 +58,7 @@ icon: sack-dollar
 
 #### 4. Коттеджи <a href="#id-4._kottedzhi" id="id-4._kottedzhi"></a>
 
-Самый распространённый способов заработка основан на связке сооружений [Ферма](../osnovnye-sooruzheniya/osobye-sooruzheniya/ferma.md) - [Амбар](../osnovnye-sooruzheniya/antichnost/ambar.md) - [Коттедж](../osnovnye-sooruzheniya/osobye-sooruzheniya/kottedzh.md).
+Самый распространённый способов заработка основан на связке сооружений [Ферма](/broken/pages/9km1OWlkQKUDN1il9ozJ) - [Амбар](../osnovnye-sooruzheniya/antichnost/ambar.md) - [Коттедж](../osnovnye-sooruzheniya/osobye-sooruzheniya/kottedzh.md).
 
 После изучения всех требуемых технологий, начинаем постройку Фермы. Далее строим Амбар. Недалеко от фермы, чтобы носить еду было быстрее. Затем строим Коттеджи. Чем больше коттеджей, тем больше денег с них вы получите.&#x20;
 
