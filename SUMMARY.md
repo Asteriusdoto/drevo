@@ -17,6 +17,7 @@
   * [Обновление 1.2 - Секира, крит, трезубец](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.2-sekira-krit-trezubec.md)
   * [Обновление 1.1](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.1.md)
   * [Изменения на сезон 15.05](obshaya-informaciya/novosti-obnovlenii/izmeneniya-na-sezon-15.05.md)
+  * [Обновление 1.5 - Новая версия, чудеса и баланс.](obshaya-informaciya/novosti-obnovlenii/obnovlenie-1.5-novaya-versiya-chudesa-i-balans..md)
 * [Правила проекта](obshaya-informaciya/pravila-proekta.md)
 * [Мобы](obshaya-informaciya/moby.md)
 * [Вооружение и заточки](obshaya-informaciya/vooruzhenie-i-zatochki.md)
