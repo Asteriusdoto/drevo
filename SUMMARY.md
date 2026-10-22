@@ -32,7 +32,7 @@
   * [Начальные квесты](obshaya-informaciya/kvesty/nachalnye-kvesty.md)
   * [Квесты цивилизации](obshaya-informaciya/kvesty/kvesty-civilizacii.md)
   * [Личные квесты](obshaya-informaciya/kvesty/lichnye-kvesty.md)
-* [Ресурс пак](obshaya-informaciya/resurs-pak.md)
+* [Ресурс пак и мод на худы](obshaya-informaciya/resurs-pak-i-mod-na-khudy.md)
 
 ## Основные характеристики
 
