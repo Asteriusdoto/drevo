@@ -17,7 +17,7 @@ icon: diploma
 
 ### Описание <a href="#opisanie" id="opisanie"></a>
 
-Университет - это научная структура, которая генерирует [науку](../../osnovnye-kharakteristiki/nauka/) для города. Университет можно построить, только если в городе уже построена [Библиотека](../antichnost/biblioteka.md).
+Университет - это научная структура, которая генерирует [науку](../../osnovnye-kharakteristiki/nauka/) для города.&#x20;
 
 ### Модификации и эффекты <a href="#modifikacii_i_effekty" id="modifikacii_i_effekty"></a>
 
