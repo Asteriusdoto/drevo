@@ -25,3 +25,4 @@ icon: landmark
 
 * Культура: <mark style="color:purple;">+500</mark>
 * Счастье: <mark style="color:yellow;">+2</mark>
+* Культура: +20%
